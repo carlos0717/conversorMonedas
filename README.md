@@ -2,6 +2,16 @@
 
 Este proyecto es un conversor de monedas desarrollado en Java que permite realizar conversiones entre diferentes divisas utilizando tasas de cambio en tiempo real obtenidas a través de una API externa.
 
+## Índice
+- [Descripción del Proyecto](#descripción-del-proyecto)
+- [Tecnologías Utilizadas](#tecnologías-utilizadas)
+- [Estructura del Proyecto](#estructura-del-proyecto)
+- [Cómo Ejecutar la Aplicación](#cómo-ejecutar-la-aplicación)
+- [Funcionalidades](#funcionalidades)
+- [Cómo se Desarrolló el Proyecto](#cómo-se-desarrolló-el-proyecto)
+- [Consideraciones Técnicas](#consideraciones-técnicas)
+- [Autor](#autor)
+
 ## Descripción del Proyecto
 
 El Conversor de Moneda es una aplicación de consola que permite a los usuarios convertir entre las siguientes monedas:
@@ -74,4 +84,4 @@ El desarrollo del proyecto siguió estos pasos:
 
 ## Autor
 
-Este proyecto fue desarrollado como parte del curso de Java de Alura Latam.
+Yan Huerta, este proyecto fue desarrollado como parte del curso de Java de Alura Latam.
